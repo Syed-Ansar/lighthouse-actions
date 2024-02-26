@@ -1,6 +1,5 @@
 name: LighthouseCI
-
- on:
+on:
    pull_request:
 
  jobs:
